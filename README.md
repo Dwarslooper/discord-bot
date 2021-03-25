@@ -1,4 +1,4 @@
-# discord-bot
+# Dwarslooper Discord Bot (öffentlich) V.1
 Discord Bot von Dwarslooper incl. Config
 
 
